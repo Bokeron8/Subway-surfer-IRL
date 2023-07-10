@@ -7,7 +7,7 @@ On the phone:
 3. Make a server connection
 
 On pc:
-1. Clone this repositorie.
+1. Clone this repository.
 2. pip install requirements.txt
 3. Edit main.py and change the IP and the PORT
 4. Run main.py
